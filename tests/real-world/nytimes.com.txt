@@ -1,0 +1,13 @@
+robots.txt: https://www.nytimes.com/robots.txt
+bot               company       purpose                     /           
+GPTBot            OpenAI        training                    BLOCKED     
+OAI-SearchBot     OpenAI        ChatGPT search              BLOCKED     
+ChatGPT-User      OpenAI        user-triggered fetch        BLOCKED     
+ClaudeBot         Anthropic     training                    BLOCKED     
+Claude-SearchBot  Anthropic     Claude search               BLOCKED     
+Claude-User       Anthropic     user-triggered fetch        BLOCKED     
+PerplexityBot     Perplexity    search index                BLOCKED     
+Google-Extended   Google        Gemini training/grounding   BLOCKED     
+CCBot             Common Crawl  open dataset                BLOCKED     
+Googlebot         Google        search                      allowed     
+Bingbot           Microsoft     search + Copilot            allowed     

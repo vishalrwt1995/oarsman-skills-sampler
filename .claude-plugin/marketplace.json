@@ -1,0 +1,8 @@
+{
+  "name": "oarsman-skills-sampler",
+  "description": "Free Agent Skills by Oarsman AI",
+  "owner": { "name": "Oarsman AI" },
+  "plugins": [
+    { "name": "oarsman-skills-sampler", "source": "./", "description": "Clean a messy CSV export, and check which AI crawlers a site's robots.txt allows." }
+  ]
+}

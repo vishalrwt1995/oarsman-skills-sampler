@@ -1,0 +1,74 @@
+{
+  "source": "https://www.nytimes.com/robots.txt",
+  "paths": [
+    "/"
+  ],
+  "bots": [
+    {
+      "bot": "GPTBot",
+      "company": "OpenAI",
+      "purpose": "training",
+      "/": false
+    },
+    {
+      "bot": "OAI-SearchBot",
+      "company": "OpenAI",
+      "purpose": "ChatGPT search",
+      "/": false
+    },
+    {
+      "bot": "ChatGPT-User",
+      "company": "OpenAI",
+      "purpose": "user-triggered fetch",
+      "/": false
+    },
+    {
+      "bot": "ClaudeBot",
+      "company": "Anthropic",
+      "purpose": "training",
+      "/": false
+    },
+    {
+      "bot": "Claude-SearchBot",
+      "company": "Anthropic",
+      "purpose": "Claude search",
+      "/": false
+    },
+    {
+      "bot": "Claude-User",
+      "company": "Anthropic",
+      "purpose": "user-triggered fetch",
+      "/": false
+    },
+    {
+      "bot": "PerplexityBot",
+      "company": "Perplexity",
+      "purpose": "search index",
+      "/": false
+    },
+    {
+      "bot": "Google-Extended",
+      "company": "Google",
+      "purpose": "Gemini training/grounding",
+      "/": false
+    },
+    {
+      "bot": "CCBot",
+      "company": "Common Crawl",
+      "purpose": "open dataset",
+      "/": false
+    },
+    {
+      "bot": "Googlebot",
+      "company": "Google",
+      "purpose": "search",
+      "/": true
+    },
+    {
+      "bot": "Bingbot",
+      "company": "Microsoft",
+      "purpose": "search + Copilot",
+      "/": true
+    }
+  ]
+}

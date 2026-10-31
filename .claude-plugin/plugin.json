@@ -1,0 +1,18 @@
+{
+  "name": "oarsman-skills-sampler",
+  "displayName": "Oarsman Skills Sampler (free)",
+  "version": "1.0.0",
+  "description": "Two free, tested Agent Skills: clean a messy CSV export, and check which AI crawlers (GPTBot, ClaudeBot, PerplexityBot and more) a site's robots.txt allows.",
+  "author": {
+    "name": "Oarsman AI"
+  },
+  "license": "MIT",
+  "keywords": [
+    "csv",
+    "data-cleaning",
+    "seo",
+    "robots-txt",
+    "ai-crawlers"
+  ],
+  "icon": "./.claude-plugin/icon.png"
+}

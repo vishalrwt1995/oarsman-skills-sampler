@@ -1,0 +1,72 @@
+{
+  "passed": 13,
+  "total": 13,
+  "python": "3.13.5",
+  "results": [
+    {
+      "test": "both SKILL.md files pass the Agent Skills spec",
+      "pass": true,
+      "detail": "2/2 skills valid"
+    },
+    {
+      "test": "clean: header found under 2 title lines",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "clean: blank row and duplicate removed (4 rows left)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "clean: amounts parsed incl. (brackets), Rs./Cr and Dr",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "clean: amounts add up (5000 - 1200 + 2450.50 - 250 = 6000.50 = closing balance)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "clean: mixed day-first dates -> ISO",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "clean: semicolon delimiter + month-first dates detected",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "robots: GPTBot blocked everywhere",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "robots: Google-Extended blocked only on /blog/",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "robots: specific group replaces * (Google-Extended may enter /private/)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "robots: * group applies to ClaudeBot; /private/ blocked",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "robots: longest match + $ wildcard (Allow /private/press$ beats Disallow /private/)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "test": "robots: empty robots.txt = everything allowed",
+      "pass": true,
+      "detail": ""
+    }
+  ]
+}
