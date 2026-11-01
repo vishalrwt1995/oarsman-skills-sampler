@@ -67,7 +67,7 @@ The last recorded run (13/13 passed) is in `TESTS.md`.
 The two free skills here are complete and stay free. You don't need the paid pack to use them.
 
 - SEO + AI Visibility Pack: https://oarsmanai.com/agents/seo-ai-visibility-skills/?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=readme-seo-ai-visibility-skills
-- All agents, many free in your browser: https://oarsmanai.com/?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=bio-link
+- All agents, with free downloads and real prices on every page: https://oarsmanai.com/?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=bio-link
 
 Prices are on each product page. Checkout is on oarsmanai.com.
 
