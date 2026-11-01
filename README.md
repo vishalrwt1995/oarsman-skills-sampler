@@ -1,6 +1,10 @@
-# Oarsman Skills Sampler
+# Oarsman AI Skills Sampler: 2 free Claude skills (MIT)
 
-Two small, free Agent Skills for Claude. Each one runs a real Python script (standard library only) instead of asking the model to eyeball your data, and each ships with tests.
+Check which AI crawlers your robots.txt lets in, and clean a messy CSV, from Claude. Plain Python does the work; Claude explains the result.
+
+More agents that each do one job well: https://oarsmanai.com/?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=bio-link
+
+Each skill runs a real Python script (standard library only) instead of asking the model to eyeball your data, and each ships with tests.
 
 | Skill | Ask Claude | What it does |
 |---|---|---|
@@ -55,21 +59,22 @@ The last recorded run (13/13 passed) is in `TESTS.md`.
 
 ## What's free and what's paid
 
-| | This repo (free, MIT) | Paid packs (Gumroad) |
+| | This repo (free, MIT) | SEO + AI Visibility Pack (paid) |
 |---|---|---|
-| CSV cleaning | `csv-quick-clean`: header, delimiter, duplicates, amounts, dates | **Finance Analyst Pack**: also Excel files, control-total checks, bank-vs-books reconciliation, budget variance, month-end P&L/cash-flow pack |
-| AI crawler access | `ai-crawler-check`: robots.txt rules for 11 bots | **SEO + AI Visibility Pack**: 19 bots, plus a live request with each bot's user agent to catch firewall/CDN blocks that robots.txt doesn't show, a technical SEO crawl, schema checks with ready-to-paste JSON-LD, an llms.txt builder and a white-label HTML report |
-| Store reports | none | **E-commerce Weekly Report Pack**: Shopify, WooCommerce and Amazon exports to a weekly KPI report, SKU margins after fees, anomaly watch |
+| AI crawler access | `ai-crawler-check`: robots.txt rules for 11 bots | 19 bots, plus a live request with each bot's user agent to catch firewall/CDN blocks that robots.txt doesn't show, a technical SEO crawl, schema checks with ready-to-paste JSON-LD, an llms.txt builder and a white-label HTML report |
+| CSV cleaning | `csv-quick-clean`: header, delimiter, duplicates, amounts, dates | not included |
 
-The two free skills here are complete and stay free. You don't need the paid packs to use them.
+The two free skills here are complete and stay free. You don't need the paid pack to use them.
 
-- SEO + AI Visibility Pack ($29): https://vishalrwt.gumroad.com/l/seo-ai-visibility-claude-skills
-- All packs: https://vishalrwt.gumroad.com/
+- SEO + AI Visibility Pack: https://oarsmanai.com/agents/seo-ai-visibility-skills/?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=readme-seo-ai-visibility-skills
+- All agents, many free in your browser: https://oarsmanai.com/?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=bio-link
+
+Prices are on each product page. Checkout is on oarsmanai.com.
 
 ## Disclosure
-I built this repo and the paid packs (Oarsman AI). The scripts were written with AI assistance and checked against the tests above. Not affiliated with Anthropic; Claude is a trademark of Anthropic, PBC.
+We build this repo and the paid packs (Oarsman AI); when we link something we made, we say so. The scripts were written with AI assistance and checked against the tests above. Not affiliated with Anthropic; Claude is a trademark of Anthropic, PBC.
 
-Issues and pull requests are welcome.
+Issues and pull requests are welcome. Questions: hello@oarsmanai.com
 
 ## License
 MIT. See `LICENSE`.
